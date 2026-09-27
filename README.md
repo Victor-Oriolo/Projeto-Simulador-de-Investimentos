@@ -97,7 +97,4 @@ Utiliza a função de Valor Futuro (`FV` / `VF`) para projetar o acumulado ao lo
 * **Funções Lógicas:** `IFS` / `SE`, `AND` / `E`
 * **Funções de Procura:** `VLOOKUP` / `PROCV`
 * **Funções Estatísticas e Financeiras:** `MEDIAN` / `MEDIANA`, `FV` / `VF`
-* **Modelos de Procura Condicional Multi-critério** (Combinação de Chaves Únicas)```python
-* **Funções de Procura:** `VLOOKUP` / `PROCV`
-* **Funções Estatísticas e Financeiras:** `MEDIAN` / `MEDIANA`, `FV` / `VF`
 * **Modelos de Procura Condicional Multi-critério** (Combinação de Chaves Únicas)
